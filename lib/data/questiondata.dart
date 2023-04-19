@@ -47,7 +47,7 @@ var questions = [
     ],
   ),
   questionclass(
-    'When did Sidhu Moose Wala martyed?',
+    'When did Sidhu Moose Wala martyed ?',
     [
       'May 29, 2022',
       'May 22, 2022',
