@@ -11,7 +11,7 @@ var questions = [
     ],
   ),
   questionclass(
-    'Who was the female artist who collaborated with Sidhu in the song INVINCIBLE?',
+    'Who was the female artist who collaborated with Sidhu in the song INVINCIBLE ?',
     [
       'Stefflon Don',
       'Stefflon Banglez',
