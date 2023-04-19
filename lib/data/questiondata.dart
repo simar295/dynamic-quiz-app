@@ -40,7 +40,7 @@ var questions = [
   questionclass(
     'Name the romantic collab which ranked on the romantic global charts?',
     [
-      'Sohne lagde',
+      'Sohne Lagde',
       'Jaan',
       'Its all about you',
       'Cut off',
