@@ -38,7 +38,7 @@ var questions = [
     ],
   ),
   questionclass(
-    'Name the romantic collab which looked on the romantic global charts?',
+    'Name the romantic collab which ranked on the romantic global charts?',
     [
       'Sohne lagde',
       'Jaan',
