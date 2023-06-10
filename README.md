@@ -1,4 +1,4 @@
-# jatt_quiz_2
+# quiz_2
 
 A new Flutter project.
 
